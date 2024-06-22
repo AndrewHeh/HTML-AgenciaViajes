@@ -1,0 +1,35 @@
+
+
+header{
+text-align: center;
+background-color: aqua;
+border: solid red 4px;
+}
+
+
+h3{
+color: indigo;
+}
+
+.contenedor a{
+text-decoration: none;
+color: darkolivegreen;
+}
+
+.contenedor2 a{
+text-decoration: none;
+color: brown;
+}
+
+.pack1 p{ 
+color: orange;
+}
+
+.pack2 p{
+color: cadetblue;
+}
+
+.pack3 p{
+
+color: deeppink;
+}
